@@ -1,59 +1,58 @@
-## Introduction
+## Install Thonny on a Chromebook
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Open the application menu and select or search for the **Settings** application.
 
-### What you will make
+![the application menu openin ChromeOS with the Settings application highlighted](images/1_settings.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+From the settings menu, select **Advanced**
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![the settings menu open with Advanced highlighted](images/2_Advanced.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Select the **Developers** option.
 
---- collapse ---
+![the Advanced menu open with **Developers** option highlighted](images/3_Developers.png)
+
+Click **Turn on** for the Linux development environment.
+
+![Turn on highlighted in the Linux development environment option](images/4_Turn_on_Linux.png)
+
+Click **Next**
+
+![Set up Linux development environment screen showing the Next button](images/5_Turn_on_Linux_2.png)
+
+You need to choose a username for your Linux account then click **Install**
+
+![Username entered in username field, with Install button highlighted.](images/6_Install.png)
+
+Once Linux has been installed, yoyu can access it in the application menu.
+
+![Application menu showing Terminal highlighted.](images/7_Open_terminal.png)
+
+Click on the hostname for your Linux install. Here it is called **penguin**
+
+![Linux menu showing penguin as highlighted](images/8_Select_Linux.png)
+
+Install Thonny using the following command.
+
+--- code ---
 ---
-title: What you will need
+language: bash
+filename: 
+line_numbers: 
+line_number_start: 
+highlight_lines: 
 ---
-### Hardware
+sudo apt update && sudo apt install thonny -y
+--- /code ---
 
-+ A computer or tablet capable of running Scratch 3
+![Terminal showing the install command](images/9_Install_Thonny.png)
 
-### Software
+Once Thonny is installed, it should be available in the Application menu.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Thonny shown in ChromeOS Application menu](images/10_Open_Thonny.png)
 
-### Downloads
+Thonny can now be used as normal.
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![Thonny open in ChromeOS](images/11_Start_Thonny.png)
 
---- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
