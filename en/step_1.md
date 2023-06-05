@@ -2,7 +2,7 @@
 
 Open the application menu and select or search for the **Settings** application.
 
-![the application menu openin ChromeOS with the Settings application highlighted](images/1_settings.png)
+![the application menu open in ChromeOS with the Settings application highlighted](images/1_settings.png)
 
 From the settings menu, select **Advanced**
 
@@ -24,7 +24,7 @@ You need to choose a username for your Linux account then click **Install**
 
 ![Username entered in username field, with Install button highlighted.](images/6_Install.png)
 
-Once Linux has been installed, yoyu can access it in the application menu.
+Once Linux has been installed, you can access it in the application menu.
 
 ![Application menu showing Terminal highlighted.](images/7_Open_terminal.png)
 
