@@ -2,23 +2,23 @@
 
 Open the application menu and select or search for the **Settings** application.
 
-![the application menu open in ChromeOS with the Settings application highlighted](images/1_settings.png)
+![The application menu open in ChromeOS with the Settings application highlighted](images/1_settings.png)
 
 From the settings menu, select **Advanced**
 
-![the settings menu open with Advanced highlighted](images/2_Advanced.png)
+![The settings menu open with Advanced highlighted](images/2_Advanced.png)
 
 Select the **Developers** option.
 
-![the Advanced menu open with **Developers** option highlighted](images/3_Developers.png)
+![The Advanced menu open with **Developers** option highlighted](images/3_Developers.png)
 
 Click **Turn on** for the Linux development environment.
 
-![Turn on highlighted in the Linux development environment option](images/4_Turn_on_Linux.png)
+![The Linux development environment option with the 'Turn on' button highlighted](images/4_Turn_on_Linux.png)
 
 Click **Next**
 
-![Set up Linux development environment screen showing the Next button](images/5_Turn_on_Linux_2.png)
+![The Set up Linux development environment screen showing the Next button](images/5_Turn_on_Linux_2.png)
 
 You need to choose a username for your Linux account then click **Install**
 
